@@ -1,0 +1,8 @@
+.bug {
+  width: 400px;
+}
+
+.bug:hover {
+  transform: scale(1.2);
+  transition: transform 2s;
+}

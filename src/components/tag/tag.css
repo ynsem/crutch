@@ -1,0 +1,20 @@
+.tag {
+  display: flex;
+  align-items: flex-end;
+  justify-content: right;
+
+  width: 250px;
+  height: 250px;
+
+  border-radius: 50%;
+
+  background: black;
+}
+
+.tag-text {
+  color: white;
+  font-size: 50px;
+  margin: 0;
+  margin-bottom: 70px;
+  margin-right: 50px;
+}
